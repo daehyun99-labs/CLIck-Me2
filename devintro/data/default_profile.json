@@ -1,0 +1,10 @@
+{
+  "name": "Jane Developer",
+  "bio": "Jane is a passionate software developer who loves Python.",
+  "skills": ["Python", "Django", "Flask"],
+  "projects": ["DevIntro CLI", "Awesome Web App"],
+  "contacts": {
+    "Email": "jane@example.com",
+    "GitHub": "https://github.com/jane"
+  }
+}
